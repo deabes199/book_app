@@ -19,6 +19,7 @@ Every feature mainly contains of 3 basic layers `data` , `logic` and `ui`
 - **Book** details screen with extended information.
 - **Add** books to a favorites list.
 
+
 ## Tools
 
 - **flutter_bloc**: For state management using Cubit.
@@ -29,7 +30,7 @@ Every feature mainly contains of 3 basic layers `data` , `logic` and `ui`
 ## Screens
 - **HomeScreen**
 
-<img src="https://github.com/user-attachments/assets/030e0d25-4dc8-4f5e-9189-753ce69c603d" width="250" />
+<img src="https://github.com/user-attachments/assets/d904d8ee-cde8-42b8-8e4b-a97e15d03d0f" width="300" />
 
 
 - **DetailsScreen**
