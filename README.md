@@ -3,23 +3,8 @@
 This is a simple Flutter project that displays a list of books. The app fetches book data from a local or remote source and presents it in a user-friendly list view.
 
 - 🎨 [Architecture Design](#architecture-design)
-lib/
-│── main.dart         # Entry point of the app
-│── core/
-│   ├── networking/
-│   │   ├── api_service
-│   │   ├── api_handler_error
-│   ├── utils/
-│   │   ├── constants
-│── features/
-│   ├── ui/
-│   │   ├── screens
-│   │   ├── widgest
-│   ├── data/
-│   │   ├── models    
-│   │   ├── repo
-│   ├── logic/
-│   │   ├── cubit
+![Screenshot 2025-02-05 000218](https://github.com/user-attachments/assets/e4d07286-ba06-47c0-92e1-f0a78b8e2463)
+
 
 ## Features
 
