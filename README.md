@@ -34,13 +34,16 @@ Every feature mainly contains of 3 basic layers `data` , `logic` and `ui`
 
 - **DetailsScreen**
 
-![Screenshot_1738698100](https://github.com/user-attachments/assets/e43d0601-74ea-4720-8e97-33def91b3f86)
+<img src="https://github.com/user-attachments/assets/e43d0601-74ea-4720-8e97-33def91b3f86" width="250" />
+
 - **FavoriteScreen**
 
-![Screenshot_1738698109](https://github.com/user-attachments/assets/230942d0-e3fa-4f1a-9178-4500a4911d8c)
+<img src="https://github.com/user-attachments/assets/230942d0-e3fa-4f1a-9178-4500a4911d8c" width="250" />
+
 - **SearchScreen**
 
-![Screenshot_1738698122](https://github.com/user-attachments/assets/a90e74ca-cf88-4bcd-8804-bb7e355ec490)
+<img src="https://github.com/user-attachments/assets/a90e74ca-cf88-4bcd-8804-bb7e355ec490" width="250" />
+
 
 
 
