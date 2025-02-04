@@ -5,7 +5,7 @@ This is a simple Flutter project that displays a list of books. The app fetches 
 - 🎨 [Architecture Design](#architecture-design)
 
   
-![Screenshot 2025-02-05 000218](https://github.com/user-attachments/assets/e4d07286-ba06-47c0-92e1-f0a78b8e2463)
+<img src="https://github.com/user-attachments/assets/e4d07286-ba06-47c0-92e1-f0a78b8e2463" width="250" />
 
 
 ## Features
