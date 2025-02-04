@@ -12,28 +12,32 @@ This is a simple Flutter project that displays a list of books. The app fetches 
 
 Every feature mainly contains of 3 basic layers `data` , `logic` and `ui`
 
-### Splash screen before loading the main app.
-### Onboarding screen for first-time users.
-### Home screen displaying a list of books with titles, authors, and covers.
-### Search functionality to filter books.
-### Book details screen with extended information.
-### Add books to a favorites list.
+- **Splash screen** before loading the main app.
+- **Onboarding screen** for first-time users.
+- **Home screen** displaying a list of books with titles, authors, and covers.
+- **Search** functionality to filter books.
+- **Book** details screen with extended information.
+- **Add** books to a favorites list.
 
 ## Tools
 
-### ***flutter_bloc***: For state management using Cubit.
-### **dio***: For handling network requests.
-### hive: hive: A lightweight and fast database.
-### shared_preferences: For simple local storage
-### 
+- **flutter_bloc**: For state management using Cubit.
+- **dio**: For handling network requests.
+- **hive**: hive: A lightweight and fast database.
+- **shared_preferences**: For simple local storage
 
-This project is a starting point for a Flutter application.
+## Screens
+- **HomeScreen**
+![Screenshot_1738698085](https://github.com/user-attachments/assets/030e0d25-4dc8-4f5e-9189-753ce69c603d)
+- **DetailsScreen**
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1738698100](https://github.com/user-attachments/assets/e43d0601-74ea-4720-8e97-33def91b3f86)
+- **FavoriteScreen**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1738698109](https://github.com/user-attachments/assets/230942d0-e3fa-4f1a-9178-4500a4911d8c)
+- **SearchScreen**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1738698122](https://github.com/user-attachments/assets/a90e74ca-cf88-4bcd-8804-bb7e355ec490)
+
+
+
