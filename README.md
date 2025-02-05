@@ -28,20 +28,16 @@ Every feature mainly contains of 3 basic layers `data` , `logic` and `ui`
 - **shared_preferences**: For simple local storage
 
 ## Screens
-- **HomeScreen**
-
-<img src="https://github.com/user-attachments/assets/d904d8ee-cde8-42b8-8e4b-a97e15d03d0f" width="300" />
 
 
-- **DetailsScreen**
+<img src="https://github.com/user-attachments/assets/d904d8ee-cde8-42b8-8e4b-a97e15d03d0f" width="200" />
 
-<img src="https://github.com/user-attachments/assets/e43d0601-74ea-4720-8e97-33def91b3f86" width="250" />
 
-- **FavoriteScreen**
+<img src="https://github.com/user-attachments/assets/e43d0601-74ea-4720-8e97-33def91b3f86" width="200" />
 
-<img src="https://github.com/user-attachments/assets/230942d0-e3fa-4f1a-9178-4500a4911d8c" width="250" />
 
-- **SearchScreen**
+
+<img src="https://github.com/user-attachments/assets/230942d0-e3fa-4f1a-9178-4500a4911d8c" width="200" />
 
 <img src="https://github.com/user-attachments/assets/a90e74ca-cf88-4bcd-8804-bb7e355ec490" width="250" />
 
